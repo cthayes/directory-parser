@@ -1,0 +1,25 @@
+{
+  "name": "directory-parser",
+  "version": "1.0.0",
+  "description": "Creates an object representation of a directory, parsing known file types into usable data.",
+  "main": "directoryParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cthayes@github.com/cthayes/directory-parser.git"
+  },
+  "keywords": [
+    "directory",
+    "parser",
+    "js",
+    "javascript"
+  ],
+  "author": "Christopher Hayes (http://cthayes.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cthayes/directory-parser/issues"
+  },
+  "homepage": "https://github.com/cthayes/directory-parser#readme"
+}

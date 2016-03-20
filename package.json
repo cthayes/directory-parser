@@ -1,6 +1,6 @@
 {
   "name": "directory-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates an object representation of a directory, parsing known file types into usable data.",
   "main": "directoryParser.js",
   "scripts": {

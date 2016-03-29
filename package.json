@@ -2,7 +2,7 @@
   "name": "directory-parser",
   "version": "1.0.1",
   "description": "Creates an object representation of a directory, parsing known file types into usable data.",
-  "main": "directoryParser.js",
+  "main": "lib/parser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +25,8 @@
   "dependencies": {
     "js-yaml": "^3.5.5",
     "marked": "^0.3.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
   }
 }

@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 reports
 zoran.json
+test/content/excessive
+coverage
